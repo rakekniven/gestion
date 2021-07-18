@@ -1,0 +1,4 @@
+.. _quickstart:
+
+Démarrage rapide
+================
