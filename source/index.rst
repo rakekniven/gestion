@@ -10,8 +10,7 @@ Bienvenue sur la documentation de Gestion de facturation !
 .. toctree::
    :caption: Sommaire
    
-   quisuisje
-   mesprojets
+   quickstart
 
 * :ref:`genIndex`
 * :ref:`search`
