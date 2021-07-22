@@ -17,11 +17,11 @@ Fonctionnalité en cours de développement
 ****************************************
 
 V1.1.0
-* Travail sur l'ergonomie
-* Traduction via transifex
+  * Travail sur l'ergonomie
+  * Traduction via transifex
 
 V1.2.0
-* Tableau de bord pour déclaration URSSAF
+  * Tableau de bord pour déclaration URSSAF
 
 * :ref:`genIndex`
 * :ref:`search`
